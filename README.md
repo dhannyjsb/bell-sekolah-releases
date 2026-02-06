@@ -1,32 +1,32 @@
-# Bell Sekolah (School Bell)
+# Bell Sekolah
 
-A school bell application for managing class schedules and bell timings.
+Aplikasi bel sekolah untuk mengelola jadwal kelas dan waktu bel otomatis.
 
-## Description
+## Deskripsi
 
-Bell Sekolah is an application designed to automate school bell ringing based on predefined schedules. This repository serves as the releases page for the application.
+Bell Sekolah adalah aplikasi yang dirancang untuk mengotomatiskan bunyi bel sekolah berdasarkan jadwal yang telah ditentukan. Repository ini berfungsi sebagai halaman rilis untuk aplikasi tersebut.
 
-## Releases
+## Rilis
 
-Check the [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/releases) page to download the latest version of the application.
+Kunjungi halaman [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/releases) untuk mengunduh versi terbaru dari aplikasi.
 
-## Installation
+## Instalasi
 
-1. Download the latest release from the [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/releases) page
-2. Extract the downloaded file
-3. Run the application according to your platform
+1. Unduh rilis terbaru dari halaman [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/releases)
+2. Ekstrak file yang telah diunduh
+3. Jalankan aplikasi sesuai dengan platform Anda
 
-## Features
+## Fitur
 
-- Automatic bell ringing based on schedule
-- Customizable bell timings
-- School schedule management
-- Easy to configure and use
+- Bunyi bel otomatis berdasarkan jadwal
+- Waktu bel yang dapat disesuaikan
+- Pengelolaan jadwal sekolah
+- Mudah dikonfigurasi dan digunakan
 
-## Support
+## Dukungan
 
-For issues, questions, or feature requests, please open an issue in this repository.
+Untuk masalah, pertanyaan, atau permintaan fitur, silakan buka issue di repository ini.
 
-## License
+## Lisensi
 
-Please refer to the LICENSE file in the releases for licensing information.
+Silakan lihat file LICENSE di dalam rilis untuk informasi lisensi.
