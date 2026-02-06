@@ -13,7 +13,7 @@ Kunjungi halaman [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/r
 ## Instalasi
 
 1. Unduh rilis terbaru dari halaman [Releases](https://github.com/dhannyjsb/bell-sekolah-releases/releases)
-2. Ekstrak file yang telah diunduh
+2. Install file yang telah diunduh
 3. Jalankan aplikasi sesuai dengan platform Anda
 
 ## Fitur
